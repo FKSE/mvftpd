@@ -1,0 +1,9 @@
+ftp:
+  host: 127.0.0.1
+  port: 21
+mongodb:
+  host: 127.0.0.1
+  port: 27001
+  user: null
+  password: null
+  collection: mvftpd
